@@ -50,8 +50,8 @@ assignment is to help the student gain an understanding of the *numpy.random* pa
 ## 2 Project Repository
 ------------------------------------------------------------------------------------------------
 
-The Project Repository is the source where all the work associated with
-the project will be stored. It contains the following files and can be
+The Assignment Repository is the source where all the work associated with
+the assignment will be stored. It contains the following files and can be
 located [here](https://github.com/JPLee01/Programming_for_Data_Analysis-Assignment):
 
   **File**    |     **Description**
@@ -64,7 +64,7 @@ located [here](https://github.com/JPLee01/Programming_for_Data_Analysis-Assignme
 
 ## 3 numpy.random package
 ------------------------------------------------------------------------------------------------
-
+The *numpy.random* package in Python is a package within the NumPy (Numerical Python) libary for doing random sampling. The package contains some simple random data generation methods, some permutation and distribution functions, and random generator functions. It should also be noted that NumPy is seen as the fundamental package for scientific computing with Python. This is mainly due to its ability to help programmers easily perform numerical computations. A key facet of that viewpoint is the *numpy.random* package and its ability to easliy generate random samplimg. 
 
 ## 4 Problem Statement
 ------------------------------------------------------------------------------------------------
@@ -96,13 +96,12 @@ Once the repository has been downloaded, you will need to ensure that you are ru
 ```
 jupyter notebook
 ```
-4. A window or tab should open in your default web browser. If this does not happen, read the command prompt output. It should provide a URL which you can copy and paste into your web browser to access Jupyter Notebook.
+4. A notebook server should automatically launch in your default web browser (URL should be http://localhost:8888). If this does not happen, read the command prompt output. You can copy and paste the above URL into your web browser to access Jupyter Notebook.
 6. Using the menu on the left side of the page, double click the jupyter notebook file:
 ```
 Programming_for_Data_Analysis-Assignment.ipynb
 ```
 7. The notebook should open in a new tab. You can run each cell with the keyboard shortcut SHIFT+ENTER, alternatively use the "play" button on the menu bar. Please note that certain cells must be run before others e.g. the cells importing the various Python libraries. You may find it convenient to use the "Run all Cells" option in the "Run" dropdown menu.
-
 
 ### 5.3 Libraries
 The following Python libraries were used in the writing of the programs code and are required to successfully run the programs:
@@ -112,15 +111,14 @@ The following Python libraries were used in the writing of the programs code and
 
 ## 6 Summary, Conclusion and Future Analysis of the numpy.random Package
 ------------------------------------------------------------------------------------------------
-
+In summary it can be seen that the *numpy.random* package in Python...
 
 
 ## 7 References
 ------------------------------------------------------------------------------------------------
-
-
-
+References will be indicated numerically throughout the Jupyter Notebook and will be listed in full at the end.
 
 ## 8 Bibliography
 ------------------------------------------------------------------------------------------------
-
+Within the course of this assignment the following sources were used for research purposes:
+* ....
