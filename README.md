@@ -64,7 +64,7 @@ located [here](https://github.com/JPLee01/Programming_for_Data_Analysis-Assignme
 
 ## 3 numpy.random package
 ------------------------------------------------------------------------------------------------
-The *numpy.random* package in Python is a package within the NumPy (Numerical Python) libary for doing random sampling. The package contains some simple random data generation methods, some permutation and distribution functions, and random generator functions. It should also be noted that NumPy is seen as the fundamental package for scientific computing with Python. This is mainly due to its ability to help programmers easily perform numerical computations. A key facet of that viewpoint is the *numpy.random* package and its ability to easliy generate random samplimg. 
+The *numpy.random* package in Python is a package within the NumPy (Numerical Python) libary for doing random sampling. The package contains some simple random data generation methods, some permutation and distribution functions, and random generator functions. It should also be noted that NumPy is seen as the fundamental package for scientific computing with Python. This is mainly due to its ability to help programmers easily perform numerical computations. A key facet of that viewpoint is the *numpy.random* package and its ability to easliy generate random sampling. 
 
 ## 4 Problem Statement
 ------------------------------------------------------------------------------------------------
@@ -111,7 +111,17 @@ The following Python libraries were used in the writing of the programs code and
 
 ## 6 Summary, Conclusion and Future Analysis of the numpy.random Package
 ------------------------------------------------------------------------------------------------
-In summary it can be seen that the *numpy.random* package in Python...
+In summary it can be seen that the *numpy.random* package in Python can be used for generating simple random data generation methods, permutation and distribution functions, and random generator functions. While it is generally said that the numpy.random package uses random numbers, we have seen from analysis that this is not entirely the case and that the fact the numbers can be calculated and premediated.
+Through analysis it can also be seen that 
+
+it offers the user the ability to investigate numerical computations withouthaving to undergo the time consuming process of collecting data.
+
+
+In conclusion  
+and this is why it is seen as the fundamental package for scientific computing with Python.
+
+
+The scope is endless in terms of future analysis of the numpy.random package
 
 
 ## 7 References
@@ -121,4 +131,88 @@ References will be indicated numerically throughout the Jupyter Notebook and wil
 ## 8 Bibliography
 ------------------------------------------------------------------------------------------------
 Within the course of this assignment the following sources were used for research purposes:
-* ....
+* Alex Lenail - Understanding and Implementing the Hypergeometric Test in Python, <https://blog.alexlenail.me/understanding-and-implementing-the-hypergeometric-test-in-python-a7db688a7458>
+
+* Better Explained - Easy Permutations and Combinations, <https://betterexplained.com/articles/easy-permutations-and-combinations/>
+
+* Brett Berry - Combinations vs Permutations, <https://medium.com/i-math/combinations-permutations-fa7ac680f0ac#:~:text=The%20difference%20between%20combinations%20and,different%20ordering%20(aka%20permutation)>
+
+* Chris Albon - Generating Random Numbers With NumPy, <https://chrisalbon.com/python/basics/generating_random_numbers_with_numpy/>
+
+* DataCamp - Random Number Generator Using Numpy, <https://www.datacamp.com/community/tutorials/numpy-random>
+
+* David M. Lane - Binomial Distribution, <http://onlinestatbook.com/2/probability/binomial.html>
+
+* Debanjona Bhattacharjya - NumPy.Random.Seed(101) Explained, <https://medium.com/@debanjana.bhattacharyya9818/numpy-random-seed-101-explained-2e96ee3fd90b> 
+
+* Engineering and Statistics HAndbook - 1.3.6.6.19. Poisson Distribution, <https://www.itl.nist.gov/div898/handbook/eda/section3/eda366j.htm>
+
+* EW Weisstein - Poisson Distribution / Poisson Curve: Simple Definition, <https://www.statisticshowto.com/poisson-distribution/>
+
+* Geeks for Geeks - numpy.random.choice() in Python, <https://www.geeksforgeeks.org/numpy-random-choice-in-python/>
+
+* Geek for Geeks - numpy.random.poisson() in Python, <https://www.geeksforgeeks.org/numpy-random-poisson-in-python/>
+
+* Geeks for Geeks - numpy.random.randn() in Python, <https://www.geeksforgeeks.org/numpy-random-randn-python/>
+
+* Geeks for Geeks - Python – Binomial Distribution, <https://www.geeksforgeeks.org/python-binomial-distribution/>
+
+* Geek for Geeks - Python | Numpy np.hypergeometric() method, <https://www.geeksforgeeks.org/python-numpy-np-hypergeometric-method/>
+
+* Jarkko Toivonen - Data Analysis with Python, <https://saskeli.github.io/data-analysis-with-python-summer-2019/numpy.html>
+
+* Jason Brownlee - How to Generate Random Numbers in Python, <https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/>
+
+* John DeJesus - Hypergeometric Distribution Explained With Python, <https://towardsdatascience.com/hypergeometric-distribution-explained-with-python-2c80bc613bf4>
+
+* Joshua Ebner - Numpy Random Seed Explained, <https://www.sharpsightlabs.com/blog/numpy-random-seed/>
+
+* Jupyter Notebook - Markdown Cells, <https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html>
+
+* Justin Bois - Lesson 23: Random number generation, <http://justinbois.github.io/bootcamp/2020/lessons/l23_random_number_generation.html>
+
+* Lew Yerian - Understanding Permutations and Combinations, <https://www.isixsigma.com/community/blogs/understanding-permutations-and-combinations/#:~:text=Permutations%20are%20for%20lists%20(where,permutation%20is%20an%20ordered%20combination.&text=A%20true%20%E2%80%9Ccombination%E2%80%9D%20lock%20would,a%20true%20%E2%80%9Ccombination%E2%80%9D%20lock.>
+
+* Manish Pathak - Probability Distributions in Python, <https://www.datacamp.com/community/tutorials/probability-distributions-python>
+
+* Maths is Fun - The Binomial Distribution, <https://www.mathsisfun.com/data/binomial-distribution.html>
+
+* Numpy Manual 1.19 - NumPy 1.19.0 Release Note - Changes, <https://numpy.org/doc/stable/release/1.19.0-notes.html#changes>
+
+* Packt - NumPy random numbers, <https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/2/ch02lvl1sec16/numpy-random-numbers>
+
+* RFunction.com - set.seed, <http://rfunction.com/archives/62>
+
+* Royal Statistical Society - Notebook: The Laplace distribution, <https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2018.01185.x>
+
+* Rylan Fowers - Python Poisson Distribution - Numpy Random Poisson, <https://www.youtube.com/watch?v=dGhDzCJryGA>
+
+* Sachin Date - The Poisson Process: Everything you need to know, <https://towardsdatascience.com/the-poisson-process-everything-you-need-to-know-322aa0ab9e9a>
+
+* Science Direct - Hypergeometric Distribution, <https://www.sciencedirect.com/topics/mathematics/hypergeometric-distribution>
+
+* Stack Exchange - What exactly is a seed in a random number generator?, <https://stats.stackexchange.com/questions/354373/what-exactly-is-a-seed-in-a-random-number-generator>
+
+* Stack Exchange - Where in R code should I use set.seed() function (specifically, before shuffling or after)?, <https://stats.stackexchange.com/questions/215209/where-in-r-code-should-i-use-set-seed-function-specifically-before-shuffling>
+
+* Tutorials Point - Statistics: Laplace Distribution, <https://www.tutorialspoint.com/statistics/laplace_distribution.htm>
+
+* w3shools.com - Binomial Distribution, <https://www.w3schools.com/python/numpy_random_binomial.asp>
+
+* w3shools.com - Random Numbers in NumPy, <https://www.w3schools.com/python/numpy_random.asp>
+
+* w3shools.com - Random Permutations, <https://www.w3schools.com/python/numpy_random_permutation.asp>
+
+* Will Koehrsen - The Poisson Distribution and Poisson Process Explained, <https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459>
+
+* Wolfram Mathworld - Binomial Distribution,<https://mathworld.wolfram.com/BinomialDistribution.html>
+
+* Wolfram Mathworld - Hypergeometric Distribution, <https://mathworld.wolfram.com/HypergeometricDistribution.html>
+
+* Wolfram Mathworld - Laplace Distribution, <https://mathworld.wolfram.com/LaplaceDistribution.html>
+
+* Wolfram Mathworld - Normal Distribution, <https://mathworld.wolfram.com/NormalDistribution.html>
+
+* Wolfram Mathworld - Pseudorandom Number, <https://mathworld.wolfram.com/PseudorandomNumber.html>
+
+* Yourbasic.org - What’s a seed in a random number generator?, <https://yourbasic.org/algorithms/random-number-generator-seed/>
