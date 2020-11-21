@@ -43,9 +43,7 @@ The Project instructions can be found at [here](https://github.com/JPLee01/Progr
 ## 1 Introduction
 ------------------------------------------------------------------------------------------------
 
-This analysis of *numpy.random* package in Python has been carried out as
-an assignment of the Programming for Data Analysis module. The aim of this
-assignment is to help the student gain an understanding of the *numpy.random* package in Python through; detailed explanations of the package, the use of the simple random data and permutations functions, five distributions provided for and the use of seeds in generating pseudorandom numbers. This explanation will be conducted through a Jupyter Notebook which will contain markdown text, images, Python code and Plots. 
+This analysis of *numpy.random* package in Python has been carried out as an assignment of the Programming for Data Analysis module. The aim of this assignment is to help the student gain an understanding of the *numpy.random* package in Python through; detailed explanations of the package, the use of the simple random data and permutations functions, five distributions provided for and the use of seeds in generating pseudorandom numbers. This explanation will be conducted through a Jupyter Notebook which will contain markdown text, images, Python code and Plots. 
 
 ## 2 Project Repository
 ------------------------------------------------------------------------------------------------
@@ -111,18 +109,11 @@ The following Python libraries were used in the writing of the programs code and
 
 ## 6 Summary, Conclusion and Future Analysis of the numpy.random Package
 ------------------------------------------------------------------------------------------------
-In summary it can be seen that the *numpy.random* package in Python can be used for generating simple random data generation methods, permutation and distribution functions, and random generator functions. While it is generally said that the numpy.random package uses random numbers, we have seen from analysis that this is not entirely the case and that the fact the numbers can be calculated and premediated.
-Through analysis it can also be seen that 
+In summary it can be seen that the *numpy.random* package in Python can be used for a variatey of functions in which random data generation is required. The *numpy.random* package is also befenitial to computer scientists as it offers the user the to investigate numerical computations withouthaving to undergo the time consuming process of collecting data. While it is generally said that the numpy.random package uses random numbers, we have seen from analysis that this is not entirely the case and that in fact the numbers can be calculated and premediated. Through analysis it can also be seen that advantages lie in the ability to predetermine random data generation in terms of analysis and hypothesis testing.
 
-it offers the user the ability to investigate numerical computations withouthaving to undergo the time consuming process of collecting data.
+In conclusion after completion of the assigmentent the author feels they have gained an indept knowledge of the *numpy.random* package in Python, and also a wider appreciation of the field of random number generation and distribution. As the author did not have substantial experience in random number generation or distribution prior to the commencement of the assignment, extensive research was undertaken. This resulted in the author gaining an experience, understanding and overall insight into random number generation and distribution. The author now feels a level of confidence with regards to data analysis which was not present before undertaking the assignment. The author also feels, that this new knowledge, will be of significant benefit as they continue their studies.
 
-
-In conclusion  
-and this is why it is seen as the fundamental package for scientific computing with Python.
-
-
-The scope is endless in terms of future analysis of the numpy.random package
-
+In terms of future analysis of the *numpy.random* package, the scope is endless. In essence, the assignment has only scratched the surface, and hundreds of PhD's could be written to extensively analyse the package. Also in today's data rich world the real life applications of the package are infinite. As Andrew McAfee the is cofounder and codirector of the MIT Initiative on the Digital Economy said *"The world is one big data problem."*
 
 ## 7 References
 ------------------------------------------------------------------------------------------------
